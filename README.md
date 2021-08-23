@@ -11,7 +11,7 @@
  cd modern-linux-command-installer
  ```
 
-1. running script
+2. running script
 
  ```bash
  bash modern-command-install.sh
