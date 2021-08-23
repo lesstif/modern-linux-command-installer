@@ -1,2 +1,3 @@
 # modern-linux-command-installer
-Modern Unix/Linux Command install script
+
+[Modern Unix/Linux Command](https://github.com/ibraheemdev/modern-unix) installation script
