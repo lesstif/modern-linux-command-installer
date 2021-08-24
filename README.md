@@ -4,11 +4,10 @@
 
 # Install
 
-1. check out repository
+1. download script
 
  ```bash
- git clone https://github.com/lesstif/modern-linux-command-installer.git
- cd modern-linux-command-installer
+ wget https://raw.githubusercontent.com/lesstif/modern-linux-command-installer/main/modern-command-install.sh
  ```
 
 2. running script
